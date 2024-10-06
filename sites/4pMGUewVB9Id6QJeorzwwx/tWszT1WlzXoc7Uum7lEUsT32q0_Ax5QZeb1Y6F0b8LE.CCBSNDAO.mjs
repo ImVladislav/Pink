@@ -3190,42 +3190,42 @@ var Wr = Rr(l),
                                   }),
                                 }),
                               }),
-                              e(me, {
-                                href: "https://pump.fun/eLWzijdEoSHizCf2Kjz712PZQqZhM6GYYwHL7qPpump",
-                                openInNewTab: !0,
-                                children: e(b, {
-                                  breakpoint: a,
-                                  overrides: {
-                                    RsYwHljm0: {
-                                      background: {
-                                        alt: "",
-                                        fit: "fit",
-                                        loading: f(50),
-                                        pixelHeight: 319,
-                                        pixelWidth: 268,
-                                        positionX: "center",
-                                        positionY: "center",
-                                        src: "https://framerusercontent.com/images/R139R7gTHOXiOcVAcBiph9r0Y.png",
-                                      },
-                                    },
-                                  },
-                                  children: e(l, {
-                                    as: "a",
-                                    background: {
-                                      alt: "",
-                                      fit: "fit",
-                                      loading: f(70),
-                                      pixelHeight: 319,
-                                      pixelWidth: 268,
-                                      positionX: "center",
-                                      positionY: "center",
-                                      src: "https://framerusercontent.com/images/R139R7gTHOXiOcVAcBiph9r0Y.png",
-                                    },
-                                    className: "framer-1wutal framer-lux5qc",
-                                    whileHover: We,
-                                  }),
-                                }),
-                              }),
+                              // e(me, {
+                              //   href: "https://pump.fun/eLWzijdEoSHizCf2Kjz712PZQqZhM6GYYwHL7qPpump",
+                              //   openInNewTab: !0,
+                              //   children: e(b, {
+                              //     breakpoint: a,
+                              //     overrides: {
+                              //       RsYwHljm0: {
+                              //         background: {
+                              //           alt: "",
+                              //           fit: "fit",
+                              //           loading: f(50),
+                              //           pixelHeight: 319,
+                              //           pixelWidth: 268,
+                              //           positionX: "center",
+                              //           positionY: "center",
+                              //           src: "",
+                              //         },
+                              //       },
+                              //     },
+                              //     children: e(l, {
+                              //       as: "a",
+                              //       background: {
+                              //         alt: "",
+                              //         fit: "fit",
+                              //         loading: f(70),
+                              //         pixelHeight: 319,
+                              //         pixelWidth: 268,
+                              //         positionX: "center",
+                              //         positionY: "center",
+                              //         src: "2.png",
+                              //       },
+                              //       className: "framer-1wutal framer-lux5qc",
+                              //       whileHover: We,
+                              //     }),
+                              //   }),
+                              // }),
                               e(me, {
                                 href: "https://pump.fun/eLWzijdEoSHizCf2Kjz712PZQqZhM6GYYwHL7qPpump",
                                 openInNewTab: !0,
