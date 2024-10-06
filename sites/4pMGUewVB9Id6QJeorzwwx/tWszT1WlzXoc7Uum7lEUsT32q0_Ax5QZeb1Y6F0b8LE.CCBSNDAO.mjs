@@ -3425,7 +3425,7 @@ var Wr = Rr(l),
                             sizes: "1200px",
                             src: "./1.png",
                             srcSet:
-                              "./1.PNG",
+                              "./1.png",
                           },
                           className: "framer-1o542rr",
                           whileHover: Ut,
@@ -5957,7 +5957,7 @@ var Wr = Rr(l),
                               sizes: "953px",
                               src: "./1.png",
                               srcSet:
-                                "./1.PNG",
+                                "./1.png",
                             },
                           },
                           RsYwHljm0: {
